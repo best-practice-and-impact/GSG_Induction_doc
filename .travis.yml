@@ -5,7 +5,7 @@ branches:
     - master
 
 script:
-  - Rscript -e "rmarkdown::render('GSG_Induction_Managing_your_career.Rmd', output_dir = 'docs')"
+  - Rscript -e "rmarkdown::render('GSG_Induction_Managing_your_career.Rmd', output_file = "index.html", output_dir = 'docs')"
 
 cache:
   packages: yes
