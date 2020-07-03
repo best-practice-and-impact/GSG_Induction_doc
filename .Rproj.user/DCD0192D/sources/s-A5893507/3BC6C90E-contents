@@ -1,0 +1,167 @@
+---
+output:
+  govdown::govdown_document:
+    font: "sans-serif" # (default) or "new-transport"
+    logo: False # or false (default)
+    logo_url: "https://github.com/best-practice-and-impact"
+    logo_text: "BPI"
+    page_title: "Managing your career"
+    title: "Managing your career"
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+There are many opportunities for you to develop and have a successful career with government analysis. You are responsible for your own development. It’s worth taking some time to make sure you understand and make the most of the opportunities available as appropriate for your own personal career aspirations.
+
+There are many different ways in which you can learn and develop your skills. Different approaches may be needed for different people and different types of skill. We outline a few different opportunities here.
+
+
+# Identification of needs
+
+It is important that you identify your needs and find ways to improve your skills and capabilities. There are several ways to approach this.
+
+## Competency frameworks
+
+Each profession has its own competency frameworks to supplement the generic Civil Service competencies. We would suggest familiarising yourself with these both for your current grade and the grade above on a regular basis. At least once a year you should try to identify any potential gaps you would like to try and fill with training or development opportunities. Ensure that you regularly reflect on your progress against these goals.
+
+The [Civil Service competency framework](https://www.gov.uk/government/publications/civil-service-competency-framework) can be found on the gov.uk website. The [GSG competency framework](https://gss.civilservice.gov.uk/wp-content/uploads/2016/11/GSG-Competency-Framework_March2016-1.pdf) can be found on the GSS website.
+
+## 360-degree feedback
+
+360-degree feedback is a process which allows you to gain insight on your performance from others you work with. This can be done in a formal or an informal way. In a formal 360 review, your managers, staff, peers, customers and/or stakeholders would be invited to provide feedback on your behaviours and attitudes at work. You will also complete a self-evaluation.
+
+A third party will give feeback a comprehensive development report based on the anonymous feedback from your reviewers. 360 can be a useful tool for developing self-awareness and how other perceive you and your actions and can give a great steer for future development activities. More detailed information is available on the [Civil Service Learning website](https://civilservicelearning.civilservice.gov.uk/sites/default/files/resources/360 Best Practice and user guides - final Jan 2013.pdf). 
+
+
+## Line manager
+
+You should have regular development chats with your line manager. These should focus on both developing and improving skills and behaviours needed for your current post and development needs for future posts and progression. Ensure you are prepared for these conversations by reviewing your Personal Development Plan and your own self-identified needs.
+
+# Learning
+
+## On the job learning
+
+It is important to seek opportunities to learn as part of your day to day job.  This can be done through observation, demonstration, practising techniques, having tasks delegated to you and by taking part in coaching and mentoring. It is the most effective and efficient means of developing capability. Make sure that you include any of these activities completed in your Personal Development Plan.
+
+## Self-managed learning
+
+Self-managed learning includes reading or completing e-learning. This can form an important part of your development plans and allows you to develop your skills at times which suit you. The e-learning or reading you complete should be aligned to the development needs identified in your Personal Development Plan.
+
+## Group learning
+
+Being part of a group or cross functional team like a working group allows you to engage with communities of practice and network and learn from others. Look for opportunities to be part of relevant groups or task-forces to give exposure to working with different teams and learning new skills.
+
+## Tutor-led training
+
+This is the more traditional method of learning and can be done through attending training courses, seminars and taking part in development programmes. To be effective it should be relevant to your current work situation. An opportunity to put this learning into practice should be provided immediately after you have completed the training
+
+# Consider new and exciting roles
+
+## Loans and Secondments
+
+Loans and secondments are both types of work placement. They can last a few weeks, months, a year or more. A loan or secondment is ideal when you identify a development need that you are unlikely to be able to gain as effectively within your own department.
+
+Loans occurs when you move to a different post within the civil service for an agreed period. This could be within the same government department or to a different one. 
+A secondment occurs when you move to a post in an organisation outside the civil service. In this case, you would remain on your home department’s payroll and the host organisation invoiced to recover the costs.
+
+Loans and secondments are invaluable opportunities for both you and the host organisation. You will get the opportunity to gain new skills or develop skills you already have in a new context. You will get exposure to new experiences that you may not have been able to get in your own department, and you can bring these skills back to them to make real changes. Take a look at Francesca’s blog on her [two week secondment with the Best Practice and Impact division](https://gss.civilservice.gov.uk/blog/two-weeks-with-best-practice-and-impact/).
+
+For more information on loans and secondment, including how to organise your own, take a look at the [GSS website](https://gss.civilservice.gov.uk/careers/loans-and-secondments/#steps-to-organise-a-loan-or-secondment-placement).
+
+### The Analytical Volunteer Programme
+
+The [Analytical Volunteer Programme](https://gss.civilservice.gov.uk/careers/analytical-volunteer-programme/) is an annual programme that arranges for government analysts to work in voluntary sector organisations on short term placements.
+
+It provides an excellent opportunity for voluntary sector organisations to benefit from free analytical expertise and for government analysts to develop and build new skills.
+
+The scheme is open to anyone working in the UK government who is confident they have analytical skills they could apply to help voluntary sector organisations.
+
+The scheme is open to all analytical professions as well as those who do not align with a specific profession.
+
+## Shadowing
+
+Shadowing involves observing somebody in their job to gain a better understanding of the role. This gives you the opportunity to achieve an insight rather than to gain hands-on, practical experience.
+There are several case studies of shadowing that has already taken place across government for you to find out more:
+
+- Emily Carless from the Office for National Statistics [shadowed the new Head of Profession at Ofsted](https://gss.civilservice.gov.uk/blog/shadowing-at-ofsted/)
+
+- Michael Bleakley from the UK Statistics Authority [shadowed the Chief Statistician at the Department for International Development](https://gss.civilservice.gov.uk/news/march-shadow-penguin/)
+
+- Sarah Morris from the Office for National Statistics [shadowed the then National Statistician, John Pullinger](https://gss.civilservice.gov.uk/blog/shadowing-the-national-statistician/)
+ 
+## Moving posts
+
+There is also the option of moving posts within the GSG and beyond. There is a huge wealth of roles across government, each bringing its own opportunities and networks, and moving posts is a great way to discover new skills and techniques.
+
+We would advise you to set up an account on [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi). Here, you can set up job alerts based on your preferences, location, salary and so on. You can also input your details of your current role in order to view internal vacancies advertised to civil servants.
+
+If you are in a large division or directorate, you may also be offered job opportunities internally, through expressions of interest. You may also be in a department that undertakes a process of ‘managed moves’ each year which is a rotation exercise.
+
+# Other opportunities
+
+There are a whole host of other opportunities for you to becoming part of a wider analytical community for you to take advantage of.
+
+## Champion networks
+
+Within the GSS, there are a whole range of GSS champion networks that you can get involved in. These champion networks aim to share best practice, improve awareness and create links between statistical teams.
+
+You can find out more about the champion networks and how to get involved on the GSS website:
+
+- [Quality champions](https://gss.civilservice.gov.uk/about-us/champion-networks/quality-champions/)
+- [Presentation champions](https://gss.civilservice.gov.uk/about-us/champion-networks/presentation-champions/)
+-	[Web dissemination champions](https://gss.civilservice.gov.uk/about-us/champion-networks/web-dissemination-champions/)
+-	[Geography champions](https://gss.civilservice.gov.uk/about-us/champion-networks/geography-champions/)
+-	[Harmonisation champions](https://gss.civilservice.gov.uk/about-us/champion-networks/harmonisation-champions/)
+-	[User engagement champions](https://gss.civilservice.gov.uk/about-us/champion-networks/user-engagement-champions/)
+-	[Reproducible Analytical Pipeline (RAP) champions](https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/)
+
+## Conferences and events
+
+Conferences and events are a great way to connect with peers and discover the wide range of work that goes on across government.
+
+You can find out what events are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/) on the GSS website. You can also find out more by signing up for the [GSS newsletter](https://gss.civilservice.gov.uk/newsletter/) and the Analytical Function newsletter . The main conferences and events are listed in the remainder of this section.
+
+### GSS Conference
+
+The GSS conference is held each year and is an exciting opportunity to meet other statisticians and data scientists working across a variety of organisations. The conference allows you to share ideas and learn about the excellent work that is being produced across government.
+
+You can view the [2018](https://gss.civilservice.gov.uk/events/gss-conference-2018/) and [2019](https://gss.civilservice.gov.uk/events/government-statistical-service-gss-conference-2019/) conference agendas to find out more about the types of talks and networking opportunities that are an offer.
+
+### Methodology Symposium
+
+The methodology symposiums have been running for 25 year, each having a different theme that is focussed on throughout the event. These symposiums are a great opportunity to both showcase and learn from methodological developments from across the GSS and beyond.
+
+Take a look at information from [previous symposiums](https://gss.civilservice.gov.uk/guidances/methodology/#gss-methodology-symposium) for examples of the type of projects that have already been showcased.
+
+### Sharing seminars
+
+The Best Practice and Impact (BPI) division host regular [sharing seminars](https://gss.civilservice.gov.uk/learning-development/sharing-seminars/) which are open to all government departments. These help to create a culture of shared innovation across government.
+Each seminar is made up of three short presentations showcasing work relevant to the topic of interest.
+
+Participants can ask questions and find out more about the topic, with the overall goal being improved collaboration, problem solving and peer learning.
+
+### Peer review workshops
+
+In peer review workshops participants review a statistical publication and suggest improvements. There are usually around six to eight participants from across the GSS alongside staff from the Good Practice Team who organise and run the workshops.
+
+Taking part in one of these reviews gives you the chance to gain a fresh perspective on statistical publications and will give you a deeper understanding of what makes a good statistical release.
+
+You can find out what peer review workshops are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/).
+
+## RSS membership
+
+Joining the RSS will help you expand your network in a global community of like-minded individuals and stay informed of developments in the world of statistics and data science.
+
+Those who are based at UKSA/ONS can receive a RSS corporate membership scheme.  
+
+
+## Don’t forget Slack!
+
+Slack is a website and an app that can be used for collaboration. It allows you to find and communicate with colleagues across the GSS who may be working on similar projects to you. It allows the right people and the right information to come together, helping everyone get work done.
+
+The GSS has a workspace on Slack that you can join: [gov-stats-service.slack.com](https://gov-stats-service.slack.com/). It’s easy to join – simply create a Slack account and add yourself to the GSS workspace with your government email address. You must sign-up with your government email address as we need to ensure everyone on the GSS workspace works in the government.
+
+The cross-government data science partnership also has a Slack workspace you might find useful: [govdatascience.slack.com](https://govdatascience.slack.com/)

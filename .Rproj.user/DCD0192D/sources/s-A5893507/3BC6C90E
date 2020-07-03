@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593789013478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3BC6C90E",
+    "lastKnownWriteTime" : 1593789105,
+    "last_content_update" : 1593789105398,
+    "path" : "~/code/GSG/GSG_Induction_Managing_your_career.Rmd",
+    "project_path" : "GSG_Induction_Managing_your_career.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,73",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

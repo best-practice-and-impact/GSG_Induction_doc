@@ -1,0 +1,10 @@
+output_dir: docs 
+output:
+  govdown::govdown_document:
+  font: "sans-serif" # (default) or "new-transport"
+logo: "images/bpi.png"
+logo_url: "https://github.com/best-practice-and-impact"
+logo_text: "BPI"
+page_title: "page_title"
+title: "Managing your career"
+output_dir: docs 
