@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1593789215783.000,
+    "created" : 1593789950954.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "C00E06CC",
-    "lastKnownWriteTime" : 1593789428,
-    "last_content_update" : 1593789428240,
-    "path" : "~/code/GSG/.travis.yml",
-    "project_path" : ".travis.yml",
+    "id" : "93532283",
+    "lastKnownWriteTime" : 1593789957,
+    "last_content_update" : 1593789957322,
+    "path" : "~/code/GSG/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "17,29",
+        "cursorPosition" : "5,26",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "yaml"
+    "type" : "dcf"
 }
