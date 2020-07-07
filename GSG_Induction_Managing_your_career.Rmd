@@ -1,3 +1,4 @@
+
 ---
 title: "Managing your career"
 output:
@@ -6,19 +7,17 @@ output:
     toc: yes
     toc_float: yes
     number_sections: true
-    
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+ install.packages("xml2", dependencies = TRUE, type = "win.binary") 
+library(xml2)
 ```
-
 There are many opportunities for you to develop and have a successful career with government analysis. You are responsible for your own development. It’s worth taking some time to make sure you understand and make the most of the opportunities available as appropriate for your own personal career aspirations.
 
 There are many different ways in which you can learn and develop your skills. Different approaches may be needed for different people and different types of skill. We outline a few different opportunities here.
 
----
 
 # Identification of needs
 
@@ -41,8 +40,6 @@ A third party will give feeback a comprehensive development report based on the 
 
 You should have regular development chats with your line manager. These should focus on both developing and improving skills and behaviours needed for your current post and development needs for future posts and progression. Ensure you are prepared for these conversations by reviewing your Personal Development Plan and your own self-identified needs.
 
----
-
 # Learning
 
 ## On the job learning
@@ -59,9 +56,7 @@ Being part of a group or cross functional team like a working group allows you t
 
 ## Tutor-led training
 
-This is the more traditional method of learning and can be done through attending training courses, seminars and taking part in development programmes. To be effective it should be relevant to your current work situation. An opportunity to put this learning into practice should be provided immediately after you have completed the training.
-
----
+This is the more traditional method of learning and can be done through attending training courses, seminars and taking part in development programmes. To be effective it should be relevant to your current work situation. An opportunity to put this learning into practice should be provided immediately after you have completed the training
 
 # Consider new and exciting roles
 
@@ -105,8 +100,6 @@ We would advise you to set up an account on [Civil Service Jobs](https://www.civ
 
 If you are in a large division or directorate, you may also be offered job opportunities internally, through expressions of interest. You may also be in a department that undertakes a process of ‘managed moves’ each year which is a rotation exercise.
 
----
-
 # Other opportunities
 
 There are a whole host of other opportunities for you to becoming part of a wider analytical community for you to take advantage of.
@@ -125,38 +118,54 @@ You can find out more about the champion networks and how to get involved on the
 -	[User engagement champions](https://gss.civilservice.gov.uk/about-us/champion-networks/user-engagement-champions/)
 -	[Reproducible Analytical Pipeline (RAP) champions](https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/)
 
-## Conferences and events
 
+## Conferences and events
 Conferences and events are a great way to connect with peers and discover the wide range of work that goes on across government.
 
-You can find out what events are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/) on the GSS website. You can also find out more by signing up for the [GSS newsletter](https://gss.civilservice.gov.uk/newsletter/) and the Analytical Function newsletter . The main conferences and events are listed in the remainder of this section.
+You can find out what events are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/) on the GSS website. You can also find out more by signing up for the [GSS newsletter](https://gss.civilservice.gov.uk/newsletter/) and the Analytical Function newsletter. The main conferences and events are listed in the remainder of this section.
 
-### GSS Conference
+<details>
 
+  <summary>GSS Conference </summary>
+  
 The GSS conference is held each year and is an exciting opportunity to meet other statisticians and data scientists working across a variety of organisations. The conference allows you to share ideas and learn about the excellent work that is being produced across government.
 
 You can view the [2018](https://gss.civilservice.gov.uk/events/gss-conference-2018/) and [2019](https://gss.civilservice.gov.uk/events/government-statistical-service-gss-conference-2019/) conference agendas to find out more about the types of talks and networking opportunities that are an offer.
+</details>
 
-### Methodology Symposium
+
+<details>
+  <summary>Methodology Symposium </summary>
 
 The methodology symposiums have been running for 25 year, each having a different theme that is focussed on throughout the event. These symposiums are a great opportunity to both showcase and learn from methodological developments from across the GSS and beyond.
 
 Take a look at information from [previous symposiums](https://gss.civilservice.gov.uk/guidances/methodology/#gss-methodology-symposium) for examples of the type of projects that have already been showcased.
 
-### Sharing seminars
+</details>
+
+
+<details>
+<summary>Sharing seminars</summary>
 
 The Best Practice and Impact (BPI) division host regular [sharing seminars](https://gss.civilservice.gov.uk/learning-development/sharing-seminars/) which are open to all government departments. These help to create a culture of shared innovation across government.
 Each seminar is made up of three short presentations showcasing work relevant to the topic of interest.
 
 Participants can ask questions and find out more about the topic, with the overall goal being improved collaboration, problem solving and peer learning.
+</details>
 
-### Peer review workshops
+<details>
+<summary>Peer review workshops </summary>
+
 
 In peer review workshops participants review a statistical publication and suggest improvements. There are usually around six to eight participants from across the GSS alongside staff from the Good Practice Team who organise and run the workshops.
 
 Taking part in one of these reviews gives you the chance to gain a fresh perspective on statistical publications and will give you a deeper understanding of what makes a good statistical release.
 
 You can find out what peer review workshops are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/).
+
+</details>
+
+<br>
 
 ## RSS membership
 
