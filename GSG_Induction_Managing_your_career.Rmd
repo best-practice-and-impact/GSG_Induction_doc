@@ -40,6 +40,8 @@ A third party will give feeback a comprehensive development report based on the 
 
 You should have regular development chats with your line manager. These should focus on both developing and improving skills and behaviours needed for your current post and development needs for future posts and progression. Ensure you are prepared for these conversations by reviewing your Personal Development Plan and your own self-identified needs.
 
+---
+
 # Learning
 
 ## On the job learning
@@ -56,7 +58,9 @@ Being part of a group or cross functional team like a working group allows you t
 
 ## Tutor-led training
 
-This is the more traditional method of learning and can be done through attending training courses, seminars and taking part in development programmes. To be effective it should be relevant to your current work situation. An opportunity to put this learning into practice should be provided immediately after you have completed the training
+This is the more traditional method of learning and can be done through attending training courses, seminars and taking part in development programmes. To be effective it should be relevant to your current work situation. An opportunity to put this learning into practice should be provided immediately after you have completed the training.
+
+---
 
 # Consider new and exciting roles
 
@@ -100,6 +104,8 @@ We would advise you to set up an account on [Civil Service Jobs](https://www.civ
 
 If you are in a large division or directorate, you may also be offered job opportunities internally, through expressions of interest. You may also be in a department that undertakes a process of ‘managed moves’ each year which is a rotation exercise.
 
+---
+
 # Other opportunities
 
 There are a whole host of other opportunities for you to becoming part of a wider analytical community for you to take advantage of.
@@ -124,6 +130,7 @@ Conferences and events are a great way to connect with peers and discover the wi
 
 You can find out what events are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/) on the GSS website. You can also find out more by signing up for the [GSS newsletter](https://gss.civilservice.gov.uk/newsletter/) and the Analytical Function newsletter . The main conferences and events are listed in the remainder of this section.
 
+::: {.accordion}
 ### GSS Conference
 
 The GSS conference is held each year and is an exciting opportunity to meet other statisticians and data scientists working across a variety of organisations. The conference allows you to share ideas and learn about the excellent work that is being produced across government.
@@ -150,6 +157,8 @@ In peer review workshops participants review a statistical publication and sugge
 Taking part in one of these reviews gives you the chance to gain a fresh perspective on statistical publications and will give you a deeper understanding of what makes a good statistical release.
 
 You can find out what peer review workshops are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/).
+
+:::
 
 ## RSS membership
 
