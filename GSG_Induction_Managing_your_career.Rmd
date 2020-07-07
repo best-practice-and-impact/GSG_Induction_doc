@@ -167,11 +167,33 @@ You can find out what peer review workshops are coming up in the near future by 
 
 <br>
 
-## RSS membership
+## Royal Statistical Society (RSS) membership
 
 Joining the RSS will help you expand your network in a global community of like-minded individuals and stay informed of developments in the world of statistics and data science.
 
-Those who are based at UKSA/ONS can receive a RSS corporate membership scheme.  
+Some departments offer corporate memberships to employers who are badged to the GSG. To find out more, contact the member of staff listed for your department:
+
+| Department                                             | Contact                      |
+|:-------------------------------------------------------|-----------------------------:|
+|Department for Business, Energy & Industrial Strategy   | Jo Marvin                    |
+|Department for Digital, Culture, Media & Sport          | Jackie Orme                  |
+|Department for Environment, Food & Rural Affairs        | Jane Simcock                 |
+|Department for Education                                | Sophie Danielis              |
+|Department for International Trade                      | James Liley                  |
+|Department for Transport                                | Nikesh Lad                   |
+|Department for International Development                | Paula McLeod and Elaine Herd |
+|Department for Work & Pensions                          | Katie Dodd                   |
+|GSS Fast Streamers                                      | Ian Fogg                     |
+|HM Revenue & Customs (including Valuation Office Agency | Neil Wilson                  |
+|Home Office                                             | Joseph Pereira               |
+|Ministry of Housing, Communities & Local Government     | James Denman                 |
+|Ministry of Defence                                     | Emma Broderick               |
+|Ministry of Justice                                     | Aidan Mews                   |
+|NHS Digital                                             | Wendy Leybourne              |
+|Office of Rail and Road                                 | Lyndsey Melbourne            |
+|Office for National Statistics                          | Janet Hillier                |
+|Scottish Government                                     | Celia MacIntyre              |
+|Welsh Government                                        | Karen Deehan                 |
 
 
 ## Don’t forget Slack!
