@@ -131,35 +131,32 @@ Conferences and events are a great way to connect with peers and discover the wi
 
 You can find out what events are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/) on the GSS website. You can also find out more by signing up for the [GSS newsletter](https://gss.civilservice.gov.uk/newsletter/) and the Analytical Function newsletter . The main conferences and events are listed in the remainder of this section.
 
-::: {.accordion}
-## GSS Conference
+### GSS Conference
 
 The GSS conference is held each year and is an exciting opportunity to meet other statisticians and data scientists working across a variety of organisations. The conference allows you to share ideas and learn about the excellent work that is being produced across government.
 
 You can view the [2018](https://gss.civilservice.gov.uk/events/gss-conference-2018/) and [2019](https://gss.civilservice.gov.uk/events/government-statistical-service-gss-conference-2019/) conference agendas to find out more about the types of talks and networking opportunities that are an offer.
 
-## Methodology Symposium
+### Methodology Symposium
 
 The methodology symposiums have been running for 25 year, each having a different theme that is focussed on throughout the event. These symposiums are a great opportunity to both showcase and learn from methodological developments from across the GSS and beyond.
 
 Take a look at information from [previous symposiums](https://gss.civilservice.gov.uk/guidances/methodology/#gss-methodology-symposium) for examples of the type of projects that have already been showcased.
 
-## Sharing seminars
+### Sharing seminars
 
 The Best Practice and Impact (BPI) division host regular [sharing seminars](https://gss.civilservice.gov.uk/learning-development/sharing-seminars/) which are open to all government departments. These help to create a culture of shared innovation across government.
 Each seminar is made up of three short presentations showcasing work relevant to the topic of interest.
 
 Participants can ask questions and find out more about the topic, with the overall goal being improved collaboration, problem solving and peer learning.
 
-## Peer review workshops
+### Peer review workshops
 
 In peer review workshops participants review a statistical publication and suggest improvements. There are usually around six to eight participants from across the GSS alongside staff from the Good Practice Team who organise and run the workshops.
 
 Taking part in one of these reviews gives you the chance to gain a fresh perspective on statistical publications and will give you a deeper understanding of what makes a good statistical release.
 
 You can find out what peer review workshops are coming up in the near future by looking at the [events page](https://gss.civilservice.gov.uk/events/).
-
-:::
 
 ## RSS membership
 
