@@ -1,14 +1,14 @@
 ---
+title: "Managing your career"
 output:
-  govdown::govdown_document:
-    font: "sans-serif" # (default) or "new-transport"
-    logo: False # or false (default)
-    logo_url: "https://github.com/best-practice-and-impact"
-    logo_text: "BPI"
-    page_title: "Managing your career"
-    title: "Managing your career"
-  
+  html_document: 
+    theme: cerulean
+    toc: yes
+    toc_float: yes
+    number_sections: true
+    
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
