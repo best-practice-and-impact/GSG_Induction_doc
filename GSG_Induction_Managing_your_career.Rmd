@@ -11,8 +11,6 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
- install.packages("xml2", dependencies = TRUE, type = "win.binary") 
-library(xml2)
 ```
 There are many opportunities for you to develop and have a successful career with government analysis. You are responsible for your own development. It’s worth taking some time to make sure you understand and make the most of the opportunities available as appropriate for your own personal career aspirations.
 
