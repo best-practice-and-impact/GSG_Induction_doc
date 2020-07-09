@@ -172,7 +172,7 @@ Joining the RSS will help you expand your network in a global community of like-
 Some departments offer corporate memberships to employers who are badged to the GSG. To find out more, contact the member of staff listed for your department:
 
 | Department                                             | Contact                      |
-|:-------------------------------------------------------|-----------------------------:|
+|--------------------------------------------------------|------------------------------|
 |Department for Business, Energy & Industrial Strategy   | Jo Marvin                    |
 |Department for Digital, Culture, Media & Sport          | Jackie Orme                  |
 |Department for Environment, Food & Rural Affairs        | Jane Simcock                 |
